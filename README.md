@@ -8,12 +8,12 @@
 
 ## Адреси програм (Program ID)
 
-crafting: 52JLhS24AreNFYaHhGBbFdXGRFSgZBCNaTdRSimrTTqh
-item_nft: GdW5QURPJVagNXwiNkUYtGkJZ5w367oEGig5s7Lm9SVw
-magic_token: 6GHPQ4n1StWk7cqspfWGLdgpmx8cbqZ1QgSZxfCwVyR9
-marketplace: FRQoF4nGihSUyuu4Z5kVsaqxoxGXsweDmxzMaBGaaPW3
-resource_manager: 56yHF44YTUM9UuNCpki66PfYdHLgUEVtZB9jZEqfc6A9
-search: 7vJBA1edH8F869HkF33cQQZfD3RWV6P85rQojUgB5AX1
+- crafting: 52JLhS24AreNFYaHhGBbFdXGRFSgZBCNaTdRSimrTTqh
+- item_nft: GdW5QURPJVagNXwiNkUYtGkJZ5w367oEGig5s7Lm9SVw
+- magic_token: 6GHPQ4n1StWk7cqspfWGLdgpmx8cbqZ1QgSZxfCwVyR9
+- marketplace: FRQoF4nGihSUyuu4Z5kVsaqxoxGXsweDmxzMaBGaaPW3
+- resource_manager: 56yHF44YTUM9UuNCpki66PfYdHLgUEVtZB9jZEqfc6A9
+- search: 7vJBA1edH8F869HkF33cQQZfD3RWV6P85rQojUgB5AX1
 
 ---
 
