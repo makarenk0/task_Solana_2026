@@ -8,8 +8,6 @@
 
 ## Адреси програм (Program ID)
 
-| Програма | Program ID |
-|----------|------------|
 crafting: 52JLhS24AreNFYaHhGBbFdXGRFSgZBCNaTdRSimrTTqh
 item_nft: GdW5QURPJVagNXwiNkUYtGkJZ5w367oEGig5s7Lm9SVw
 magic_token: 6GHPQ4n1StWk7cqspfWGLdgpmx8cbqZ1QgSZxfCwVyR9
