@@ -1,0 +1,8 @@
+.anchor
+.DS_Store
+target
+node_modules
+dist
+vendor
+.cargo
+patch_vendor.sh

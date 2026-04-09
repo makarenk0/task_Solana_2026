@@ -1,0 +1,26 @@
+{
+  "name": "kozak-business",
+  "version": "1.0.0",
+  "description": "Козацький бізнес — гра на Solana",
+  "scripts": {
+    "lint:fix": "prettier */*.js \"*/**/*{.js,.ts}\" -w",
+    "lint": "prettier */*.js \"*/**/*{.js,.ts}\" --check",
+    "test": "anchor test"
+  },
+  "dependencies": {
+    "@coral-xyz/anchor": "^0.30.1",
+    "@solana/web3.js": "^1.95.3",
+    "@solana/spl-token": "^0.4.8",
+    "@metaplex-foundation/mpl-token-metadata": "^3.2.1"
+  },
+  "devDependencies": {
+    "@types/bn.js": "^5.1.5",
+    "@types/chai": "^4.3.16",
+    "@types/mocha": "^9.1.1",
+    "chai": "^4.4.1",
+    "mocha": "^9.2.2",
+    "prettier": "^2.8.8",
+    "ts-mocha": "^10.0.0",
+    "typescript": "^4.9.5"
+  }
+}

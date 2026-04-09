@@ -1,0 +1,26 @@
+[package]
+name = "marketplace"
+version = "0.1.0"
+description = "Купівля/продаж предметів за MagicToken"
+edition = "2021"
+rust-version = "1.79"
+
+[lib]
+crate-type = ["cdylib", "lib"]
+name = "marketplace"
+
+[features]
+no-entrypoint = []
+no-idl = []
+no-log-ix-name = []
+cpi = ["no-entrypoint"]
+default = []
+idl-build = ["anchor-lang/idl-build", "anchor-spl/idl-build"]
+
+[dependencies]
+anchor-lang = "0.31.0"
+anchor-spl = "0.31.0"
+solana-program = "=2.1.0"
+resource-manager = { path = "../resource_manager", features = ["cpi"] }
+item-nft = { path = "../item_nft", features = ["cpi"] }
+magic-token = { path = "../magic_token", features = ["cpi"] }
